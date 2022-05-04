@@ -4,7 +4,7 @@ import colorama
 import os
 from colorama import Fore
 
-os.system("cls && title cfx-resolver")
+os.system("cls && title Cfx-resolver")
 print("")
 print("   ██████╗███████╗██╗  ██╗     ██████╗ ███████╗███████╗ ██████╗ ██╗    ██╗   ██╗███████╗██████╗ ")
 print("  ██╔════╝██╔════╝╚██╗██╔╝     ██╔══██╗██╔════╝██╔════╝██╔═══██╗██║    ██║   ██║██╔════╝██╔══██╗")
@@ -32,7 +32,7 @@ headers={
 
 response = requests.get(f"https://servers-frontend.fivem.net/api/servers/single/{cfx}", headers=headers).json()
 
-os.system("cls && title cfx-resolver")
+os.system("cls && title Cfx-resolver")
 
 print("")
 print("   ██████╗███████╗██╗  ██╗     ██████╗ ███████╗███████╗ ██████╗ ██╗    ██╗   ██╗███████╗██████╗ ")

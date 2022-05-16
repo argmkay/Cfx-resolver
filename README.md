@@ -3,7 +3,7 @@
 
 <br/>
 <div align="center">
-  <a href="https://github.com/mbcmkay/Cfx-resolver">
+  <a href="https://github.com/argmkay/Cfx-resolver">
     <img src="https://i.imgur.com/c3vgTg2.png" alt="Logo" width="120" height="120">
   </a>
   
@@ -13,9 +13,9 @@
     Simple tool to get information about fivem server though a cfx code.
     <br />
     <br />
-    <a href="https://github.com/mbcmkay/Cfx-resolver/issues">Report Bug</a>
+    <a href="https://github.com/argmkay/Cfx-resolver/issues">Report Bug</a>
     ·
-    <a href="https://github.com/mbcmkay/Cfx-resolver/issues">Request Feature</a>
+    <a href="https://github.com/argmkay/Cfx-resolver/issues">Request Feature</a>
   </p>
 </div>
   
